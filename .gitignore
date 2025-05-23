@@ -1,0 +1,12 @@
+# CI4 specific
+writable/*
+!writable/.gitkeep
+.env
+.env.*
+vendor/
+node_modules/
+.idea/
+.vscode/
+*.log
+*.bak
+*.sql
